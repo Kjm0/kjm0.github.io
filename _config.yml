@@ -34,12 +34,8 @@ social:
   name: Kareem Farooq
   email: Kareem.Farooq@proton.me # change to your email address
   links:
-    # The first element serves as the copyright owner's link
-    - # change to your Twitter homepage
     - https://github.com/kjm0 # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+ 
 
 # Site Verification Settings
 webmaster_verifications:
